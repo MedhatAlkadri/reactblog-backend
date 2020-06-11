@@ -17,7 +17,7 @@ exports.contactForm = (req, res) => {
             <p>Sender message: ${message}</p>
             <hr />
             <p>This email may contain sensetive information</p>
-            <p>https://onemancode.com</p>
+            <p>https://mkblog.space</p>
         `
     };
 
@@ -50,7 +50,7 @@ exports.contactBlogAuthorForm = (req, res) => {
             <p>Message: ${message}</p>
             <hr />
             <p>This email may contain sensetive information</p>
-            <p>https://onemancode.com</p>
+            <p>https://mkblog.space</p>
         `
     };
 
@@ -60,4 +60,3 @@ exports.contactBlogAuthorForm = (req, res) => {
         });
     });
 };
-
